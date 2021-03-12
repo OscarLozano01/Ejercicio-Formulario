@@ -14,7 +14,7 @@ Dejo vide explicativo del funcionamiento del aplicativo web. https://vimeo.com/5
 ![Alt text](/img/formulario.JPG?raw=true "Optional Title")
 
 Para visualizar la información registrada en el formulario se ingresa al botón CONSULTAR, se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la carpeta bd,
-comparto video explicativo en vimeo.
+comparto video explicativo para importar la base de datos en vimeo. https://vimeo.com/522868866
 
 ![Alt text](/img/consultar.JPG?raw=true "Optional Title")
 
