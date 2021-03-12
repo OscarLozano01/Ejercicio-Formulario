@@ -11,3 +11,5 @@ Para usar la aplicación se debe ingresar al siguiente link https://oscarlozano0
 
 El boton consultar se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la carpeta bd.
 
+![Alt text](/img/consultar.JPG?raw=true "Optional Title")
+
