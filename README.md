@@ -13,3 +13,5 @@ El boton consultar se debe importar la base de datos en phpMyAdmin el cual expor
 
 ![Alt text](/img/consultar.JPG?raw=true "Optional Title")
 
+Dejo vide explicativo del funcionamiento del aplicativo web. https://vimeo.com/522854073
+
