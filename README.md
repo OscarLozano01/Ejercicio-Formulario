@@ -13,7 +13,7 @@ Dejo vide explicativo del funcionamiento del aplicativo web. https://vimeo.com/5
 
 ![Alt text](/img/formulario.JPG?raw=true "Optional Title")
 
-El boton consultar se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la carpeta bd.
+El boton CONSULTAR se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la carpeta bd.
 
 ![Alt text](/img/consultar.JPG?raw=true "Optional Title")
 
