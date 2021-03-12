@@ -13,7 +13,7 @@ Dejo video explicativo del funcionamiento del aplicativo web. https://vimeo.com/
 
 ![Alt text](/img/formulario.JPG?raw=true "Optional Title")
 
-Para visualizar la información registrada en el formulario se ingresa al botón CONSULTAR, se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la ruta /bd/sireco.sql igualmente comparto video explicativo para importar la base de datos en vimeo. https://vimeo.com/522868866
+Para visualizar la información registrada en el formulario se ingresa al botón CONSULTAR, se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la ruta /bd/sireco.sql igualmente comparto video explicativo para importar la base de datos. https://vimeo.com/522868866
 
 ![Alt text](/img/consultar.JPG?raw=true "Optional Title")
 
