@@ -7,7 +7,7 @@ Para usar la aplicación se debe ingresar al siguiente link https://oscarlozano0
 
 Los botones ACTUALIZAR, ELIMINAR, REPORTES, IMPRESION son mejoras futuras, no estan trabjando por el momento.
 
-Dejo vide explicativo del funcionamiento del aplicativo web. https://vimeo.com/522854073
+Dejo video explicativo del funcionamiento del aplicativo web. https://vimeo.com/522854073
 
 ![Alt text](/img/pantalla.JPG?raw=true "Optional Title")
 
