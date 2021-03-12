@@ -7,5 +7,7 @@ Para usar la aplicación se debe ingresar al siguiente link https://oscarlozano0
 
 ![Alt text](/img/pantalla.JPG?raw=true "Optional Title")
 
+![Alt text](/img/formulario.JPG?raw=true "Optional Title")
+
 El boton consultar se debe importar la base de datos en phpMyAdmin el cual exporte y esta en la carpeta bd.
 
